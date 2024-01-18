@@ -15,6 +15,4 @@ public class ShoppingCart {
 //        this.bread=bread;
         System.out.println("the cart is initialized successfully");
     }
-
-
 }

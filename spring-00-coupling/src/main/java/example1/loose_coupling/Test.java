@@ -13,10 +13,9 @@ public class Test {
 //        Product bread = new Bread();
 
         productList.add(milk);
-
 //        productList.add(bread);
-        ShoppingCart shoppingCart = new ShoppingCart(productList);
 
+        ShoppingCart shoppingCart = new ShoppingCart(productList);
 
     }
 }
